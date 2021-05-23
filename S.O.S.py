@@ -279,4 +279,8 @@ while True:
     print("\n" * 2)
     if quit == "q".upper():
         print("Exiting...")
+        print(".")
+        print(".")
+        print(".")
+        print("Exited ! ")
         break
